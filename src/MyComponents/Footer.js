@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className='bg-dark text-light' style={footerStyle}>
       <p className='text-center'>
-        Copyright &copy; MyTodoList.com
+        Copyright &copy; 2025 MyTodoList
       </p>
     </footer>
   )
